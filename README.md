@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-:engrane: Ingeniera Industrial
-:reloj: Optimización de tiempos en procesos
-:diploma: Maestria en Sistemas ambientales
+Carrera: Ingeniera Industrial
+
+Actividades: Optimización de tiempos en procesos
+
+Posgrado: Sistemas ambientales
 
 
 ### Focus on
