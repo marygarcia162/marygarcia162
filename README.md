@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**marygarcia162/marygarcia162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:engrane: Ingeniera Industrial
+:reloj: Optimización de tiempos en procesos
+:diploma: Maestria en Sistemas ambientales
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus on
+
+Quality Supervisor
+Human Resources
+Finance
+
+### Contacto
+
+marygarcia162@gmail.com
+ 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/marygarcia162/marygarcia162)
