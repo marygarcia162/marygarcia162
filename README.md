@@ -23,8 +23,10 @@ Ingeniera industrial<br>Actividades: Optimización de tiempos en procesos<br>Pos
 
 📫 Siempre abierta a colaboraciones y nuevos retos.
 
+### :zap:_ Actividad reciente
+<!--START_SECTION: activity-->
 
-
+<!--END_SECTION: activity-->
 
 ### Contacto
 
