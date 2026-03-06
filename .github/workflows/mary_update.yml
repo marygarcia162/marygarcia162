@@ -1,13 +1,10 @@
-name: Update README
+name: Update README2
 
 on:
   schedule:
     - cron: '0 */12 * * *' # Cada 12 horas
-workflow_dispatch: # Permite ejecutarlo manualmente desde la pestaña Actions
 
-runs-on: ubuntu-latest
 jobs:
- build:
   update-readme:
     runs-on: ubuntu-latest
     steps:
