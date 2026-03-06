@@ -1,35 +1,14 @@
-name: Actualizar Actividad Reciente
+name: Update README
 
-
-
-schedule:
-
-# Se ejecuta cada 4 horas
-
-- cron: '0 */4 * * *'
-
-workflow_dispatch:
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Cada 12 horas
 
 jobs:
-
-build:
-
-runs-on: ubuntu-latest
-
-name: Update this repo's README with recent activity
-
-steps:
-
-- uses: actions/checkout@v3
-
-
-- uses: marygarcia162/github-activity-readme@master
-
-env:
-
-GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-COMMIT_NAME: 'github-actions[bot]'
-
-COMMIT_EMAIL: 'github-actions[bot]@users.noreply.github.com'
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Update README with recent activity
+        uses: marygarcia162/repository-marygarcia162 
