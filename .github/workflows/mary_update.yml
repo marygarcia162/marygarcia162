@@ -7,15 +7,10 @@ on:
     - cron: '0 */12 * * *' # Cada 12 horas
 
   workflow_dispatch:
-
 jobs:
-
   build:
-
     runs-on: ubuntu-latest
-
     name: Update Profile README
-
     steps:
   - uses: actions/checkout@v4.2.2
   - uses: marygarcia162/github-activity-readme
