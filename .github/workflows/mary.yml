@@ -29,11 +29,6 @@ env:
 
 GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-with:
-
-# LIMIT_TO: 5 # Opcional: Cuántos eventos mostrar (por defecto 5)
-
-# MAX_LINES: 10 # Opcional
 
 COMMIT_NAME: 'github-actions[bot]'
 
