@@ -11,4 +11,4 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
       - name: Update README with recent activity
-        uses: marygarcia162/repository-marygarcia162 
+        uses: marygarcia162/marygarcia162 
